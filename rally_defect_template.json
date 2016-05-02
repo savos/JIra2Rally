@@ -1,0 +1,20 @@
+{
+	"Defect":
+	{
+		"Name"			: 	"",
+		"Project"   	: {
+			"_ref"        		: "https://rally1.rallydev.com/slm/webservice/v2.0/project/YourRallyProjectID"
+		},
+		"State"			: "",
+		"Environment"	: "",
+		"Priority"		: "",
+		"Severity"		: "",
+		"SubmittedBy"   : {
+			"_ref": "https://rally1.rallydev.com/slm/webservice/v2.0/user/YourRallyUserID"
+		},
+		"FoundInBuild"  : "",
+		"Description"   : "",
+        "Notes"         : ""
+	}
+}
+
